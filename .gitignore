@@ -1,0 +1,22 @@
+#Specific
+archive/
+standby/
+data/conus1a.nc
+#data/EPCP72_data.pickle
+
+# General
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+__pycache__/
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+checkpoints/
+
+#Apple Stuff
+.DS_Store
+.DS_*
+Icon
+
+
+

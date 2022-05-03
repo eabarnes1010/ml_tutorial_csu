@@ -1,4 +1,4 @@
-# Machine Learning Tutorial for Earth Scientists 
+# Machine Learning Tutorial for Climate and Earth Scientists 
 ***
 Tutorial materials of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the Machine Learning Tutorial for Earth Scientists created by members of the Atmospheric Science Department at Colorado State University. 
 

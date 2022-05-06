@@ -1,6 +1,6 @@
 # Applied Machine Learning Tutorial for Earth Scientists 
 ***
-Tutorial materials of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the Machine Learning Tutorial for Geoscientists created by members of the Atmospheric Science Department at Colorado State University. 
+Tutorial materials of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the Machine Learning Tutorial for Earth Scientists created by members of the Atmospheric Science Department at Colorado State University. 
 
 ## Tensorflow Code
 ***

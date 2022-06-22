@@ -1,4 +1,5 @@
 # Applied Machine Learning Tutorial for Earth Scientists 
+[![DOI](https://zenodo.org/badge/487579863.svg)](https://zenodo.org/badge/latestdoi/487579863)
 ***
 Tutorial materials of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the Machine Learning Tutorial for Earth Scientists created by members of the Atmospheric Science Department at Colorado State University. 
 

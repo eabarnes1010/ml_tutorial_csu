@@ -2,6 +2,11 @@
 ***
 Tutorial materials of the python examples (.py), data (.csv,.nc), and jupyter notebooks (.ipynb) used in the Machine Learning Tutorial for Earth Scientists created by members of the Atmospheric Science Department at Colorado State University. 
 
+## Materials
+The tutorial materials consist of two items. 
+* slide deck: provided as a pdf here, or as [Google Slides](https://docs.google.com/presentation/d/1Fa9SuyK9DIpd-MkJJjGqjCbAa-sHtr3qufC9MhmewDQ/edit?usp=sharing)
+* code: provided in the ```code/``` directory here
+
 ## Tensorflow Code
 ***
 Code was written on iMacs using python 3.7 and tensorflow 2.7.0. The python examples and their data can just be downloaded or run on Google's Colaboratory. 
